@@ -1,0 +1,11 @@
+streamlit
+streamlit-drawable-canvas
+pandas
+numpy
+seaborn
+openpyxl
+scikit-learn
+joblib
+opencv-python
+scipy
+matplotlib
